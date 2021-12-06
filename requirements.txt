@@ -1,0 +1,6 @@
+pandas==0.24.2
+numpy==1.19.5
+scikit-learn==0.24.2
+tqdm==4.46.1
+gensim==3.8.3
+lightgbm==3.3.1
